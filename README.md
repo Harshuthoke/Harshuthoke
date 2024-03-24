@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshuthoke/Harshuthoke/blob/main/download.png)
+
 <h1 align="center">Hi 👋, I'm Harshal Thoke</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="270" src="https://media1.tenor.com/m/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif">
