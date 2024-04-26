@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harshuthoke@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ur9drg0MsUWWKMuGz4y59n89xDY5epnK/view?usp=sharing]([https://drive.google.com/file/d/1ur9drg0MsUWWKMuGz4y59n89xDY5epnK/view?usp=sharing](https://drive.google.com/file/d/1HZhMmctc0hJwtUtIFPZsowqgttzjD8xx/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ur9drg0MsUWWKMuGz4y59n89xDY5epnK/view?usp=sharing]([https://drive.google.com/file/d/1ur9drg0MsUWWKMuGz4y59n89xDY5epnK/view?usp=sharing](https://drive.google.com/file/d/1HZhMmctc0hJwtUtIFPZsowqgttzjD8xx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
