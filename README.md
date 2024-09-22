@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **harshuthoke@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ur9drg0MsUWWKMuGz4y59n89xDY5epnK/view?usp=sharing](https://drive.google.com/file/d/1HZhMmctc0hJwtUtIFPZsowqgttzjD8xx/view?usp=sharing)
-
+- 📄 Know about my experiences [https://harshuthoke.github.io/Harshal_Portfolio/](https://harshuthoke.github.io/Harshal_Portfolio/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshal-thoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-thoke" height="30" width="40" /></a>
