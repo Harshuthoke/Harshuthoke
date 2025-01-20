@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshuthoke&label=Profile%20views&color=0e75b6&style=flat" alt="harshuthoke" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **harshuthoke@gmail.com**
 
